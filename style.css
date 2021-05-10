@@ -1,0 +1,19 @@
+img.logo
+{	
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+
+ul
+{
+	float: right;
+	list-style-type: none;
+}
+
+a, b,
+{
+	justify-content: center;
+	align-items: center;
+}
